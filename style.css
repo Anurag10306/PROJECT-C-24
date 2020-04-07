@@ -1,0 +1,10 @@
+border {}
+canvas {
+  border: 15px solid black;
+  display: block;
+}
+html, body {
+  margin: 4px;
+  padding: 4px;
+
+}
